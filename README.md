@@ -45,8 +45,6 @@ server: Python flask server
 
 model: Contains python notebook for model building
 
-google_image_scrapping: code to scrap google for images
-
 images_dataset: Dataset used for our model training
 
 # Output if the face and eyes is not detected:
